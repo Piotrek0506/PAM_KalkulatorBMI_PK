@@ -48,7 +48,7 @@ Aplikacja służy do obliczania wskaźnika BMI, interpretacji wyniku oraz archiw
 
 ---
 
-## Jak uruchomić
+## Jak uruchomić?
 
 1. Sklonuj repozytorium lub pobierz pliki.
 2. Otwórz projekt w **Android Studio**.
