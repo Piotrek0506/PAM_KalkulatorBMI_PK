@@ -142,7 +142,7 @@ fun CalculatorScreen(navController: NavController, db: AppDatabase) {
                     val (category, _) = analyzeBmi(bmi, context)
 
                     val formattedBmi = "%.2f".format(bmi)
-                    val fullResult = "$formattedBmi\n($category)" // To zapiszemy w bazie
+                    val fullResult = "$formattedBmi\n($category)"
 
                     val date = SimpleDateFormat("dd-MM-yyyy HH:mm", Locale.getDefault()).format(Date())
 
