@@ -34,7 +34,7 @@ Aplikacja służy do obliczania wskaźnika BMI, interpretacji wyniku oraz archiw
 
 * **Język:** Kotlin
 * **UI:** Jetpack Compose (Material3)
-* **Architektura:** MVVM (uproszczona)
+* **Architektura:** MVVM 
 * **Baza danych:** Room Persistence Library
 * **Nawigacja:** Jetpack Navigation Compose
 
