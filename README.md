@@ -1,4 +1,4 @@
-# Kalkulator BMI z Historią 
+# Kalkulator BMI - Aplikacja na system Android
 
 Projekt zaliczeniowy z przedmiotu **Programowanie Aplikacji Mobilnych**.
 Aplikacja służy do obliczania wskaźnika BMI, interpretacji wyniku oraz archiwizowania pomiarów w lokalnej bazie danych.
@@ -34,7 +34,7 @@ Aplikacja służy do obliczania wskaźnika BMI, interpretacji wyniku oraz archiw
 
 * **Język:** Kotlin
 * **UI:** Jetpack Compose (Material3)
-* **Architektura:** MVVM (uproszczona)
+* **Architektura:** MVVM 
 * **Baza danych:** Room Persistence Library
 * **Nawigacja:** Jetpack Navigation Compose
 
