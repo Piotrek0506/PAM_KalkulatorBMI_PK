@@ -193,14 +193,12 @@ fun HistoryScreen(navController: NavController, db: AppDatabase) {
             .fillMaxSize()
             .padding(16.dp)
     ) {
-
         Row(
             verticalAlignment = Alignment.CenterVertically,
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(bottom = 16.dp)
         ) {
-
             IconButton(onClick = { navController.popBackStack() }) {
                 Icon(
                     imageVector = Icons.Default.ArrowBack,
