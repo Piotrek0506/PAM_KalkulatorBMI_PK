@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kalkulator BMI</string>
+    <string name="weight_hint">Waga (kg)</string>
+    <string name="height_hint">Wzrost (cm)</string>
+    <string name="calculate_btn">Oblicz i Zapisz</string>
+    <string name="history_btn">Historia</string>
+    <string name="back_btn">Wróć</string>
+    <string name="history_title">Historia Pomiarów</string>
+    <string name="history_empty">Brak historii.</string>
+
+    <string name="bmi_underweight">NIEDOWAGA</string>
+    <string name="bmi_normal">WAGA PRAWIDŁOWA</string>
+    <string name="bmi_overweight">NADWAGA</string>
+    <string name="bmi_obesity">OTYŁOŚĆ</string>
+</resources>
